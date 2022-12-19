@@ -11,7 +11,7 @@ NLP classifier based on FastText approach ([Link](https://arxiv.org/abs/1612.036
 * pandas python package
 * spacy python package
 * nltk python package
-* empt python package
+* emot python package
 
 ## Usage
 
