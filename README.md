@@ -4,6 +4,15 @@ Sentiment Analysis for Customer Service
 ## About
 NLP classifier based on FastText approach ([Link](https://arxiv.org/abs/1612.03651))
 
+## Dependecies
+
+* Ubuntu 20.04
+* fasttext python package
+* pandas python package
+* spacy python package
+* nltk python package
+* empt python package
+
 ## Usage
 
 Firstly you need to specify the model. Model can be found by the following [link](https://drive.google.com/file/d/1gHuam8iRaGZZJ3jwAGrHy6E40a8_k8yT/view?usp=sharing).
